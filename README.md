@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Vall, atualmente estou cursando ciencia da computação na UNICID e tenho foco nas linguagens: Python e R.🐍</h2>
+<h2 align="left"></h2>
 
 ###
 
