@@ -16,14 +16,6 @@ I'm a **Data Science student** specializing in **Python**. Passionate about **ma
 - Big Data
 - Automation
 
-## 📫 Contact
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-**“Data is the new oil, and AI is the refinery.”** 🚀
-
-
 
 <h2 align="left"></h2>
 
