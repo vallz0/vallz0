@@ -6,7 +6,7 @@ I'm a **Data Science student** specializing in **Python**. Passionate about **ma
 ---
 
 ## Skills
-- **Python** 
+- **Python & R** 
 - **Pandas & NumPy** 
 - **Scikit-learn** 
 - **Data Visualization** 
